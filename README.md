@@ -52,4 +52,4 @@ Python • HTML • CSS • JavaScript • APIs • IoT • Networking • Git �
 
 LinkedIn: [www.linkedin.com/in/solomon-odipo-508271255]
 GitHub: github.com/sololito
-Email: [solomonodipo@gmail.com]
+Email: [omosh2195@gmail.com]
